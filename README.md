@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmmdip
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Medical data analysis.
 - 📫 How to reach me: 
       email mmmdip@udel.edu
       phone +1 (302)-438-5734
